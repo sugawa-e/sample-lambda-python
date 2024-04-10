@@ -1,6 +1,6 @@
 def hello(event, context):
     body = {
-        "message": "Hello from Lambda!"
+        "message": "Hello world!"
     }
 
     response = {
